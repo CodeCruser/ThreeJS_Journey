@@ -65,7 +65,7 @@ This repository is intended as a self-guided learning resource, but contribution
 
 Please note that this repository does not provide personalized support. However, you can find help and connect with the Three.js and WebGL community through forums, discussion boards, and the official documentation.
 
-License
+#License
 The content of this repository is licensed under the MIT License. Please see the LICENSE file for more details.
 
 Congratulations on embarking on your Three.js and WebGL 3D journey! Dive in, explore, and have fun creating amazing 3D experiences for the web. Good luck!

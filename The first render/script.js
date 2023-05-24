@@ -17,6 +17,7 @@ scene.add(mesh);
 
 // adding a camera
 const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height);
+camera.position.z = 3
 scene.add(camera);
 
 // creating renderer
